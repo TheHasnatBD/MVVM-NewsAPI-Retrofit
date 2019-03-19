@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News APP (MVVM)</string>
+
+    <string name="api_key">78e088eee2a74423a9e70b2b67d353de</string>
+</resources>
